@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 3a9f2a3da45b9a64b84d1e9e3c506e54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4633938781947410857
+    second: Ravager-12_0
+  - first:
+      213: 3473451594543800426
+    second: Ravager-12_1
+  - first:
+      213: -4739159772910454033
+    second: Ravager-12_2
+  - first:
+      213: -5344483944063469290
+    second: Ravager-12_3
+  - first:
+      213: -4560846092114526206
+    second: Ravager-12_4
+  - first:
+      213: -5847517118976799095
+    second: Ravager-12_5
+  - first:
+      213: 5616565362775931256
+    second: Ravager-12_6
+  - first:
+      213: 8456615340510391465
+    second: Ravager-12_7
+  - first:
+      213: 8451150628951860461
+    second: Ravager-12_8
+  - first:
+      213: -1698577628664778893
+    second: Ravager-12_9
+  - first:
+      213: 4165907020581123523
+    second: Ravager-12_10
+  - first:
+      213: -5228419594475030779
+    second: Ravager-12_11
+  - first:
+      213: 2200063652664938938
+    second: Ravager-12_12
+  - first:
+      213: -1615503323973920524
+    second: Ravager-12_13
+  - first:
+      213: -2749522607090588404
+    second: Ravager-12_14
+  - first:
+      213: 8243140634883716978
+    second: Ravager-12_15
+  - first:
+      213: 858990093610371185
+    second: Ravager-12_16
+  - first:
+      213: -3512997832256565929
+    second: Ravager-12_17
+  - first:
+      213: -4028785569876109159
+    second: Ravager-12_18
+  - first:
+      213: 7781167477150108583
+    second: Ravager-12_19
+  - first:
+      213: 4881595381153215581
+    second: Ravager-12_20
+  - first:
+      213: 3827839066761500626
+    second: Ravager-12_21
+  - first:
+      213: 4902051314416741994
+    second: Ravager-12_22
+  - first:
+      213: -7001522025766675612
+    second: Ravager-12_23
+  - first:
+      213: -5989092475583183829
+    second: Ravager-12_24
+  - first:
+      213: 3815914474597747681
+    second: Ravager-12_25
+  - first:
+      213: 2776967868613519108
+    second: Ravager-12_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ravager-12_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3625
+        width: 226
+        height: 72
+      alignment: 9
+      pivot: {x: 0.08207421, y: 0.31588745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564e1fba31f0bfb0800000000000000
+      internalID: -4633938781947410857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3253
+        width: 72
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a602c4572dd243030800000000000000
+      internalID: 3473451594543800426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3000
+        width: 92
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaf9d1bb4f1b3eb0800000000000000
+      internalID: -4739159772910454033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2740
+        width: 96
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000944c4ae94b0c0800000000000000
+      internalID: -4560846092114526206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2491
+        width: 120
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879b50a807c02fd40800000000000000
+      internalID: 5616565362775931256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2255
+        width: 48
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4aefd88b4884570800000000000000
+      internalID: 8451150628951860461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2149
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa20c65a07d68e0800000000000000
+      internalID: -1698577628664778893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1826
+        width: 229
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c53b010d5640d930800000000000000
+      internalID: 4165907020581123523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1576
+        width: 229
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8521149449499e0800000000000000
+      internalID: -1615503323973920524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1324
+        width: 229
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277f4dfbbb4856270800000000000000
+      internalID: 8243140634883716978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 229
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d41af85135f3fc0800000000000000
+      internalID: -3512997832256565929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 229
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5433d6a229eeb340800000000000000
+      internalID: 4881595381153215581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 229
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eeb82c2b5970440800000000000000
+      internalID: 4902051314416741994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 229
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8baf3ff9d4f430800000000000000
+      internalID: 3815914474597747681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ravager-12_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 226
+        height: 72
+      alignment: 9
+      pivot: {x: 0.071121216, y: 0.30554664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407e1614095c98620800000000000000
+      internalID: 2776967868613519108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0631547967fffcb478fe22392ea7fbf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ravager-12_0: -4633938781947410857
+      Ravager-12_1: 3473451594543800426
+      Ravager-12_10: 4165907020581123523
+      Ravager-12_11: -5228419594475030779
+      Ravager-12_12: 2200063652664938938
+      Ravager-12_13: -1615503323973920524
+      Ravager-12_14: -2749522607090588404
+      Ravager-12_15: 8243140634883716978
+      Ravager-12_16: 858990093610371185
+      Ravager-12_17: -3512997832256565929
+      Ravager-12_18: -4028785569876109159
+      Ravager-12_19: 7781167477150108583
+      Ravager-12_2: -4739159772910454033
+      Ravager-12_20: 4881595381153215581
+      Ravager-12_21: 3827839066761500626
+      Ravager-12_22: 4902051314416741994
+      Ravager-12_23: -7001522025766675612
+      Ravager-12_24: -5989092475583183829
+      Ravager-12_25: 3815914474597747681
+      Ravager-12_26: 2776967868613519108
+      Ravager-12_3: -5344483944063469290
+      Ravager-12_4: -4560846092114526206
+      Ravager-12_5: -5847517118976799095
+      Ravager-12_6: 5616565362775931256
+      Ravager-12_7: 8456615340510391465
+      Ravager-12_8: 8451150628951860461
+      Ravager-12_9: -1698577628664778893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

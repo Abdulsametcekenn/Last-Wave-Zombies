@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 4993068a259aa3d4ba138cd01ae29062
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5814375424720777832
+    second: Deagle Reload_0
+  - first:
+      213: -7684167401233459995
+    second: Deagle Reload_1
+  - first:
+      213: -377285822864638627
+    second: Deagle Reload_2
+  - first:
+      213: 4447071262411050520
+    second: Deagle Reload_3
+  - first:
+      213: -8882800094018746502
+    second: Deagle Reload_4
+  - first:
+      213: 7917233200547457337
+    second: Deagle Reload_5
+  - first:
+      213: 7610967958926049486
+    second: Deagle Reload_6
+  - first:
+      213: -8268276782858718574
+    second: Deagle Reload_7
+  - first:
+      213: 6994108959720721072
+    second: Deagle Reload_8
+  - first:
+      213: 8416580057235950128
+    second: Deagle Reload_9
+  - first:
+      213: -528782346852685496
+    second: Deagle Reload_10
+  - first:
+      213: -7287637378119371102
+    second: Deagle Reload_11
+  - first:
+      213: 5012242305378335754
+    second: Deagle Reload_12
+  - first:
+      213: -1766021846881995157
+    second: Deagle Reload_13
+  - first:
+      213: 2807966943280296572
+    second: Deagle Reload_14
+  - first:
+      213: 8572941738678315641
+    second: Deagle Reload_15
+  - first:
+      213: -1851997716961423400
+    second: Deagle Reload_16
+  - first:
+      213: 5097048821903735646
+    second: Deagle Reload_17
+  - first:
+      213: -3967949323839190612
+    second: Deagle Reload_18
+  - first:
+      213: -7712611028806126206
+    second: Deagle Reload_19
+  - first:
+      213: -4759255185979167746
+    second: Deagle Reload_20
+  - first:
+      213: 3428868490777119915
+    second: Deagle Reload_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deagle Reload_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1717
+        width: 69
+        height: 41
+      alignment: 9
+      pivot: {x: 0.21024323, y: 0.38970202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dc1ca6b503f4fa0800000000000000
+      internalID: -5814375424720777832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1586
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d7d6067a5c5590800000000000000
+      internalID: -7684167401233459995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1466
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dbc550b8c93caf0800000000000000
+      internalID: -377285822864638627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1345
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ecbd660cb27bd30800000000000000
+      internalID: 4447071262411050520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1220
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9396f8a06a9afdd60800000000000000
+      internalID: 7917233200547457337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1090
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b81db21e214d80800000000000000
+      internalID: -8268276782858718574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 962
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8f2718f2bdc470800000000000000
+      internalID: 8416580057235950128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 866
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f5598a6c1dda90800000000000000
+      internalID: -7287637378119371102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 758
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb24c12df0f8540800000000000000
+      internalID: 5012242305378335754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 607
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f40fac74dd77e0800000000000000
+      internalID: -1766021846881995157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 505
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0ea383e16c46e0800000000000000
+      internalID: -1851997716961423400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 389
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3560f5ea5cb640800000000000000
+      internalID: 5097048821903735646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 277
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853049e12d47f490800000000000000
+      internalID: -7712611028806126206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 157
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba64cbf9ab3fdb0800000000000000
+      internalID: -4759255185979167746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle Reload_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 69
+        height: 41
+      alignment: 9
+      pivot: {x: 0.21424755, y: 0.391688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baccc46b9b9c59f20800000000000000
+      internalID: 3428868490777119915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 81d582760cbf08d49ac92792b770c62c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deagle Reload_0: -5814375424720777832
+      Deagle Reload_1: -7684167401233459995
+      Deagle Reload_10: -528782346852685496
+      Deagle Reload_11: -7287637378119371102
+      Deagle Reload_12: 5012242305378335754
+      Deagle Reload_13: -1766021846881995157
+      Deagle Reload_14: 2807966943280296572
+      Deagle Reload_15: 8572941738678315641
+      Deagle Reload_16: -1851997716961423400
+      Deagle Reload_17: 5097048821903735646
+      Deagle Reload_18: -3967949323839190612
+      Deagle Reload_19: -7712611028806126206
+      Deagle Reload_2: -377285822864638627
+      Deagle Reload_20: -4759255185979167746
+      Deagle Reload_21: 3428868490777119915
+      Deagle Reload_3: 4447071262411050520
+      Deagle Reload_4: -8882800094018746502
+      Deagle Reload_5: 7917233200547457337
+      Deagle Reload_6: 7610967958926049486
+      Deagle Reload_7: -8268276782858718574
+      Deagle Reload_8: 6994108959720721072
+      Deagle Reload_9: 8416580057235950128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

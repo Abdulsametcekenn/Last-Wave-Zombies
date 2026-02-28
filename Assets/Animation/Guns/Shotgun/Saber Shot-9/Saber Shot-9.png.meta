@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 2d8b77913d3eebf4d9dd8707d7c78c62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8303193018419470108
+    second: Saber Shot-9_0
+  - first:
+      213: -3054888516261527128
+    second: Saber Shot-9_1
+  - first:
+      213: 3507256152539601122
+    second: Saber Shot-9_2
+  - first:
+      213: 7151771732937722431
+    second: Saber Shot-9_3
+  - first:
+      213: -3334320866362428017
+    second: Saber Shot-9_4
+  - first:
+      213: 7398122589494564196
+    second: Saber Shot-9_5
+  - first:
+      213: -5347018800034244919
+    second: Saber Shot-9_6
+  - first:
+      213: -4201962534770653394
+    second: Saber Shot-9_7
+  - first:
+      213: -337060606169372890
+    second: Saber Shot-9_8
+  - first:
+      213: 6239075927527338215
+    second: Saber Shot-9_9
+  - first:
+      213: 7301130807990854642
+    second: Saber Shot-9_10
+  - first:
+      213: 3473912849132672918
+    second: Saber Shot-9_11
+  - first:
+      213: 4721463769038586476
+    second: Saber Shot-9_12
+  - first:
+      213: 676656727108655294
+    second: Saber Shot-9_13
+  - first:
+      213: -5552788513824402019
+    second: Saber Shot-9_14
+  - first:
+      213: 3159553095159562286
+    second: Saber Shot-9_15
+  - first:
+      213: -7400485483868866438
+    second: Saber Shot-9_16
+  - first:
+      213: -162424376195936616
+    second: Saber Shot-9_17
+  - first:
+      213: 5685378139741909942
+    second: Saber Shot-9_18
+  - first:
+      213: 7606443015061806478
+    second: Saber Shot-9_19
+  - first:
+      213: -7903163451083232027
+    second: Saber Shot-9_20
+  - first:
+      213: 9186155917577266354
+    second: Saber Shot-9_21
+  - first:
+      213: -2742072780131915287
+    second: Saber Shot-9_22
+  - first:
+      213: 6451900841160749285
+    second: Saber Shot-9_23
+  - first:
+      213: -4400440459880741215
+    second: Saber Shot-9_24
+  - first:
+      213: 6935553939198661728
+    second: Saber Shot-9_25
+  - first:
+      213: 8520156880094581726
+    second: Saber Shot-9_26
+  - first:
+      213: -2070278841214950759
+    second: Saber Shot-9_27
+  - first:
+      213: -4473711150658649269
+    second: Saber Shot-9_28
+  - first:
+      213: 761619724994683539
+    second: Saber Shot-9_29
+  - first:
+      213: -7630106490599840984
+    second: Saber Shot-9_30
+  - first:
+      213: -3530373383781790673
+    second: Saber Shot-9_31
+  - first:
+      213: 2466652359896095738
+    second: Saber Shot-9_32
+  - first:
+      213: 2604565824675490494
+    second: Saber Shot-9_33
+  - first:
+      213: -2692047906364750802
+    second: Saber Shot-9_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saber Shot-9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3911
+        width: 143
+        height: 42
+      alignment: 9
+      pivot: {x: 0.30081558, y: 0.38374838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f556cde0eda3370800000000000000
+      internalID: 8303193018419470108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3599
+        width: 42
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1cfc7741bda95d0800000000000000
+      internalID: -3054888516261527128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3398
+        width: 52
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81d6473e64ca030800000000000000
+      internalID: 3507256152539601122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3197
+        width: 61
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f857b4986dc1ab1d0800000000000000
+      internalID: -3334320866362428017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2997
+        width: 63
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69f982bb29bc5b0800000000000000
+      internalID: -5347018800034244919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2799
+        width: 28
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6272f7d1a25825bf0800000000000000
+      internalID: -337060606169372890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2599
+        width: 28
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e035f20086a59650800000000000000
+      internalID: 6239075927527338215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2399
+        width: 28
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a4fc69c3d25560800000000000000
+      internalID: 7301130807990854642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2197
+        width: 35
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d739a451d53030800000000000000
+      internalID: 3473912849132672918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1999
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8903e45b7f36900800000000000000
+      internalID: 676656727108655294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1799
+        width: 28
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c8fdccccf8db20800000000000000
+      internalID: 3159553095159562286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1661
+        width: 145
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78bf8079a13c4990800000000000000
+      internalID: -7400485483868866438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1467
+        width: 145
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d920d1f938f8960800000000000000
+      internalID: 7606443015061806478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1269
+        width: 145
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ab8ef228cb7f70800000000000000
+      internalID: 9186155917577266354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 145
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e03e63a1a1c98950800000000000000
+      internalID: 6451900841160749285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 148
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed353ac6a8dad3670800000000000000
+      internalID: 8520156880094581726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 145
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b438945496f2ae1c0800000000000000
+      internalID: -4473711150658649269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 144
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e465a29a6c1690800000000000000
+      internalID: -7630106490599840984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 144
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb5cff904f4b3220800000000000000
+      internalID: 2466652359896095738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saber Shot-9_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 143
+        height: 42
+      alignment: 9
+      pivot: {x: 0.28945097, y: 0.37454695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e248bc631bce3aad0800000000000000
+      internalID: -2692047906364750802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 23496b1f546637f4c819797680b5a090
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Saber Shot-9_0: 8303193018419470108
+      Saber Shot-9_1: -3054888516261527128
+      Saber Shot-9_10: 7301130807990854642
+      Saber Shot-9_11: 3473912849132672918
+      Saber Shot-9_12: 4721463769038586476
+      Saber Shot-9_13: 676656727108655294
+      Saber Shot-9_14: -5552788513824402019
+      Saber Shot-9_15: 3159553095159562286
+      Saber Shot-9_16: -7400485483868866438
+      Saber Shot-9_17: -162424376195936616
+      Saber Shot-9_18: 5685378139741909942
+      Saber Shot-9_19: 7606443015061806478
+      Saber Shot-9_2: 3507256152539601122
+      Saber Shot-9_20: -7903163451083232027
+      Saber Shot-9_21: 9186155917577266354
+      Saber Shot-9_22: -2742072780131915287
+      Saber Shot-9_23: 6451900841160749285
+      Saber Shot-9_24: -4400440459880741215
+      Saber Shot-9_25: 6935553939198661728
+      Saber Shot-9_26: 8520156880094581726
+      Saber Shot-9_27: -2070278841214950759
+      Saber Shot-9_28: -4473711150658649269
+      Saber Shot-9_29: 761619724994683539
+      Saber Shot-9_3: 7151771732937722431
+      Saber Shot-9_30: -7630106490599840984
+      Saber Shot-9_31: -3530373383781790673
+      Saber Shot-9_32: 2466652359896095738
+      Saber Shot-9_33: 2604565824675490494
+      Saber Shot-9_34: -2692047906364750802
+      Saber Shot-9_4: -3334320866362428017
+      Saber Shot-9_5: 7398122589494564196
+      Saber Shot-9_6: -5347018800034244919
+      Saber Shot-9_7: -4201962534770653394
+      Saber Shot-9_8: -337060606169372890
+      Saber Shot-9_9: 6239075927527338215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

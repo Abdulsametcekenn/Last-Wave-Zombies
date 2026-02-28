@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: e74029d1968c1904abdf2ff1fac081d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2064792841821379745
+    second: ak47 reload (1)_0
+  - first:
+      213: 4487869101487979801
+    second: ak47 reload (1)_1
+  - first:
+      213: 1319405373681876302
+    second: ak47 reload (1)_2
+  - first:
+      213: 2036017738888279895
+    second: ak47 reload (1)_3
+  - first:
+      213: 7576885591943756019
+    second: ak47 reload (1)_4
+  - first:
+      213: -7923320114802373940
+    second: ak47 reload (1)_5
+  - first:
+      213: 5561340558347167218
+    second: ak47 reload (1)_6
+  - first:
+      213: 1584787192495554783
+    second: ak47 reload (1)_7
+  - first:
+      213: -2295874449729780941
+    second: ak47 reload (1)_8
+  - first:
+      213: -2267507665219390777
+    second: ak47 reload (1)_9
+  - first:
+      213: -9134290772903669634
+    second: ak47 reload (1)_10
+  - first:
+      213: -7224585582149670902
+    second: ak47 reload (1)_11
+  - first:
+      213: -2369984700209202950
+    second: ak47 reload (1)_12
+  - first:
+      213: -6840102111662175350
+    second: ak47 reload (1)_13
+  - first:
+      213: -8331570301621054564
+    second: ak47 reload (1)_14
+  - first:
+      213: -8742086029678090711
+    second: ak47 reload (1)_15
+  - first:
+      213: 4535368493786563038
+    second: ak47 reload (1)_16
+  - first:
+      213: 2358739879863943428
+    second: ak47 reload (1)_17
+  - first:
+      213: -2791034344258337501
+    second: ak47 reload (1)_18
+  - first:
+      213: -5815665507784454833
+    second: ak47 reload (1)_19
+  - first:
+      213: -6334910799008754913
+    second: ak47 reload (1)_20
+  - first:
+      213: 7025684545549155622
+    second: ak47 reload (1)_21
+  - first:
+      213: 6066041543365719277
+    second: ak47 reload (1)_22
+  - first:
+      213: 6711325051169008530
+    second: ak47 reload (1)_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ak47 reload (1)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2185
+        width: 121
+        height: 34
+      alignment: 9
+      pivot: {x: 0.32179865, y: 0.3960392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac588f562e97ac10800000000000000
+      internalID: 2064792841821379745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1974
+        width: 34
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d74a88b2d184e30800000000000000
+      internalID: 4487869101487979801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1819
+        width: 57
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dbc0562387f4210800000000000000
+      internalID: 1319405373681876302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1666
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f835934d41862960800000000000000
+      internalID: 7576885591943756019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1515
+        width: 46
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f56147c5c9dd2d40800000000000000
+      internalID: 5561340558347167218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1357
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33306fe1a5a6320e0800000000000000
+      internalID: -2295874449729780941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1225
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d2f500fa7c3180800000000000000
+      internalID: -9134290772903669634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1074
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87becc87f1c1fd0800000000000000
+      internalID: -2369984700209202950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 925
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93dea604f0506c80800000000000000
+      internalID: -8331570301621054564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 839
+        width: 121
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926e125d21fdda680800000000000000
+      internalID: -8742086029678090711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 655
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed185ad9d9dd0fe30800000000000000
+      internalID: 4535368493786563038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 508
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325019a2d014449d0800000000000000
+      internalID: -2791034344258337501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 370
+        width: 125
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f131c4d2130e518a0800000000000000
+      internalID: -6334910799008754913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 121
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47319f4a8ee2450800000000000000
+      internalID: 6066041543365719277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak47 reload (1)_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 85
+        width: 121
+        height: 34
+      alignment: 9
+      pivot: {x: 0.31887734, y: 0.38564008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29beb1f639a632d50800000000000000
+      internalID: 6711325051169008530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e191172f5043ac24eba54fb501665b47
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ak47 reload (1)_0: 2064792841821379745
+      ak47 reload (1)_1: 4487869101487979801
+      ak47 reload (1)_10: -9134290772903669634
+      ak47 reload (1)_11: -7224585582149670902
+      ak47 reload (1)_12: -2369984700209202950
+      ak47 reload (1)_13: -6840102111662175350
+      ak47 reload (1)_14: -8331570301621054564
+      ak47 reload (1)_15: -8742086029678090711
+      ak47 reload (1)_16: 4535368493786563038
+      ak47 reload (1)_17: 2358739879863943428
+      ak47 reload (1)_18: -2791034344258337501
+      ak47 reload (1)_19: -5815665507784454833
+      ak47 reload (1)_2: 1319405373681876302
+      ak47 reload (1)_20: -6334910799008754913
+      ak47 reload (1)_21: 7025684545549155622
+      ak47 reload (1)_22: 6066041543365719277
+      ak47 reload (1)_23: 6711325051169008530
+      ak47 reload (1)_3: 2036017738888279895
+      ak47 reload (1)_4: 7576885591943756019
+      ak47 reload (1)_5: -7923320114802373940
+      ak47 reload (1)_6: 5561340558347167218
+      ak47 reload (1)_7: 1584787192495554783
+      ak47 reload (1)_8: -2295874449729780941
+      ak47 reload (1)_9: -2267507665219390777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

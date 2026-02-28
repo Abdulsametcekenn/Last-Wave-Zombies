@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 3ea9c986e1f5a054eaebbf84dfe6f4d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7689400049017713753
+    second: HornetReload_0
+  - first:
+      213: 3964345491284648917
+    second: HornetReload_1
+  - first:
+      213: 100134866025964180
+    second: HornetReload_2
+  - first:
+      213: -2407723674228857784
+    second: HornetReload_3
+  - first:
+      213: -731578395874547739
+    second: HornetReload_4
+  - first:
+      213: 6431579309567652182
+    second: HornetReload_5
+  - first:
+      213: 8761873811658486939
+    second: HornetReload_6
+  - first:
+      213: 5239832804879368613
+    second: HornetReload_7
+  - first:
+      213: -8179951912543320971
+    second: HornetReload_8
+  - first:
+      213: 6957123713883476370
+    second: HornetReload_9
+  - first:
+      213: -963761323526051274
+    second: HornetReload_10
+  - first:
+      213: 2351052581602479610
+    second: HornetReload_11
+  - first:
+      213: 2955167197102945461
+    second: HornetReload_12
+  - first:
+      213: -5627091920158443821
+    second: HornetReload_13
+  - first:
+      213: 3492932502697220707
+    second: HornetReload_14
+  - first:
+      213: -4668400040116740913
+    second: HornetReload_15
+  - first:
+      213: -8929428633234923880
+    second: HornetReload_16
+  - first:
+      213: -5047079924476072854
+    second: HornetReload_17
+  - first:
+      213: -5604955399073656980
+    second: HornetReload_18
+  - first:
+      213: -5638638549426043150
+    second: HornetReload_19
+  - first:
+      213: 5128300875436827901
+    second: HornetReload_20
+  - first:
+      213: 4026294106944913890
+    second: HornetReload_21
+  - first:
+      213: 1291266729173458372
+    second: HornetReload_22
+  - first:
+      213: -9208748077544341864
+    second: HornetReload_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HornetReload_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1436
+        width: 77
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2314593, y: 0.37978345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab8d664563c94590800000000000000
+      internalID: -7689400049017713753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1321
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d361f6683f240730800000000000000
+      internalID: 3964345491284648917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492eb1f4120c36100800000000000000
+      internalID: 100134866025964180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1118
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72c843359e8d5f0800000000000000
+      internalID: -731578395874547739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1014
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b3be2fcd689970800000000000000
+      internalID: 8761873811658486939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 910
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57404152319fa7e80800000000000000
+      internalID: -8179951912543320971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 803
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a28f6be2800a2f0800000000000000
+      internalID: -963761323526051274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4353b98ecd20920800000000000000
+      internalID: 2955167197102945461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 612
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a1fa7da93697030800000000000000
+      internalID: 3492932502697220707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 542
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1c63d5e2863fb0800000000000000
+      internalID: -4668400040116740913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e94dcd7fb441480800000000000000
+      internalID: -8929428633234923880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f8e48c2c23732b0800000000000000
+      internalID: -5604955399073656980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 225
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4acbda9726b2740800000000000000
+      internalID: 5128300875436827901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd1aaeaf308be110800000000000000
+      internalID: 1291266729173458372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HornetReload_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 35
+        width: 77
+        height: 43
+      alignment: 9
+      pivot: {x: 0.23145881, y: 0.34972543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e78ebd964f33080800000000000000
+      internalID: -9208748077544341864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 54c3aaa6cc2ecc648888ed4380c32bd8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HornetReload_0: -7689400049017713753
+      HornetReload_1: 3964345491284648917
+      HornetReload_10: -963761323526051274
+      HornetReload_11: 2351052581602479610
+      HornetReload_12: 2955167197102945461
+      HornetReload_13: -5627091920158443821
+      HornetReload_14: 3492932502697220707
+      HornetReload_15: -4668400040116740913
+      HornetReload_16: -8929428633234923880
+      HornetReload_17: -5047079924476072854
+      HornetReload_18: -5604955399073656980
+      HornetReload_19: -5638638549426043150
+      HornetReload_2: 100134866025964180
+      HornetReload_20: 5128300875436827901
+      HornetReload_21: 4026294106944913890
+      HornetReload_22: 1291266729173458372
+      HornetReload_23: -9208748077544341864
+      HornetReload_3: -2407723674228857784
+      HornetReload_4: -731578395874547739
+      HornetReload_5: 6431579309567652182
+      HornetReload_6: 8761873811658486939
+      HornetReload_7: 5239832804879368613
+      HornetReload_8: -8179951912543320971
+      HornetReload_9: 6957123713883476370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

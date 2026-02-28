@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 4176429c32381b9499323c733975320c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2330938872874614979
+    second: BreakerSGX Reload_0
+  - first:
+      213: -7082611879180936421
+    second: BreakerSGX Reload_1
+  - first:
+      213: 8240427013325010094
+    second: BreakerSGX Reload_2
+  - first:
+      213: -354767919453984518
+    second: BreakerSGX Reload_3
+  - first:
+      213: -8697261222039395874
+    second: BreakerSGX Reload_4
+  - first:
+      213: -4165324936002972904
+    second: BreakerSGX Reload_5
+  - first:
+      213: -2495395158028010515
+    second: BreakerSGX Reload_6
+  - first:
+      213: 7425502526114241813
+    second: BreakerSGX Reload_7
+  - first:
+      213: -5076238209815913194
+    second: BreakerSGX Reload_8
+  - first:
+      213: 5332232538912452570
+    second: BreakerSGX Reload_9
+  - first:
+      213: -273903838075777836
+    second: BreakerSGX Reload_10
+  - first:
+      213: 6477793053816498284
+    second: BreakerSGX Reload_11
+  - first:
+      213: 530296208747358256
+    second: BreakerSGX Reload_12
+  - first:
+      213: -2162028572235730992
+    second: BreakerSGX Reload_13
+  - first:
+      213: 7760542068931260164
+    second: BreakerSGX Reload_14
+  - first:
+      213: -7787438224945388086
+    second: BreakerSGX Reload_15
+  - first:
+      213: -9002136562044675832
+    second: BreakerSGX Reload_16
+  - first:
+      213: -6233620259433378438
+    second: BreakerSGX Reload_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BreakerSGX Reload_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3259
+        width: 164
+        height: 48
+      alignment: 9
+      pivot: {x: 0.22161728, y: 0.39911398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fb829e177d6afd0800000000000000
+      internalID: -2330938872874614979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3003
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b557b650285bd90800000000000000
+      internalID: -7082611879180936421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2803
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea435ce75b0eb5270800000000000000
+      internalID: 8240427013325010094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2603
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ad37f47c931bf0800000000000000
+      internalID: -354767919453984518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2403
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ef85affe1d4780800000000000000
+      internalID: -8697261222039395874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2203
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813577f1a0bc136c0800000000000000
+      internalID: -4165324936002972904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2003
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb28f23539e5dd0800000000000000
+      internalID: -2495395158028010515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1803
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1ecb943fac0760800000000000000
+      internalID: 7425502526114241813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1603
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d58a44e349d89b0800000000000000
+      internalID: -5076238209815913194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1459
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfe7a52e35eff940800000000000000
+      internalID: 5332232538912452570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1259
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc80e419e5e23cf0800000000000000
+      internalID: -273903838075777836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1059
+        width: 165
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a93d267eb5e950800000000000000
+      internalID: 6477793053816498284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 859
+        width: 164
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfe4ade77eeef1e0800000000000000
+      internalID: -2162028572235730992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 659
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6f1305ebf2bb60800000000000000
+      internalID: 7760542068931260164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5e4dba1367de390800000000000000
+      internalID: -7787438224945388086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80955cffd7cf11380800000000000000
+      internalID: -9002136562044675832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakerSGX Reload_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 164
+        height: 48
+      alignment: 9
+      pivot: {x: 0.21495314, y: 0.40574947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d8bc3b66bbd79a0800000000000000
+      internalID: -6233620259433378438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d7717e363adbdfa468dc9c8d91f8f20b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BreakerSGX Reload_0: -2330938872874614979
+      BreakerSGX Reload_1: -7082611879180936421
+      BreakerSGX Reload_10: -273903838075777836
+      BreakerSGX Reload_11: 6477793053816498284
+      BreakerSGX Reload_12: 530296208747358256
+      BreakerSGX Reload_13: -2162028572235730992
+      BreakerSGX Reload_14: 7760542068931260164
+      BreakerSGX Reload_15: -7787438224945388086
+      BreakerSGX Reload_16: -9002136562044675832
+      BreakerSGX Reload_17: -6233620259433378438
+      BreakerSGX Reload_2: 8240427013325010094
+      BreakerSGX Reload_3: -354767919453984518
+      BreakerSGX Reload_4: -8697261222039395874
+      BreakerSGX Reload_5: -4165324936002972904
+      BreakerSGX Reload_6: -2495395158028010515
+      BreakerSGX Reload_7: 7425502526114241813
+      BreakerSGX Reload_8: -5076238209815913194
+      BreakerSGX Reload_9: 5332232538912452570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

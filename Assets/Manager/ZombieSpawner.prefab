@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7239538828040818638
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 784071412353219408}
+  - component: {fileID: 4582390306394192055}
+  m_Layer: 0
+  m_Name: ZombieSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &784071412353219408
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7239538828040818638}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.4754388, y: -0.8710439, z: -0.059950642}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4582390306394192055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7239538828040818638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7632ad95357c17741b44071f9859040e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normalZombiePrefab: {fileID: 6018804940750534312, guid: 6e12d052292ff30449d3d573202c49a7, type: 3}
+  bomberZombiePrefab: {fileID: 7312811120085597380, guid: c7fe6032eb5ef0d42b9243289c811aad, type: 3}
+  fasterZombiePrefab: {fileID: 7429614604342756297, guid: 812271896601382428d9051b99ff2c87, type: 3}
+  bossZombiePrefab: {fileID: 522881655847977533, guid: 2699d30b5bdc62f44a847aa036dcb643, type: 3}
+  spawnDistanceFromCamera: 2
+  spawnBatchSize: 4
+  spawnBatchDelay: 5
+  wavetext: {fileID: 0}
+  ZombieCount: {fileID: 0}
+  pressSpaceText: {fileID: 0}
+  TradeShop: {fileID: 0}
+  waveActive: 0

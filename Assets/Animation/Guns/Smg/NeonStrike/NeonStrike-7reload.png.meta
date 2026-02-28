@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: d03ed332fe7e294488c33893ef48a628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 888014556976562349
+    second: NeonStrike-7_0
+  - first:
+      213: 3550750657099733826
+    second: NeonStrike-7_1
+  - first:
+      213: 7008338417686334175
+    second: NeonStrike-7_2
+  - first:
+      213: 2160442738257523452
+    second: NeonStrike-7_3
+  - first:
+      213: -1370944691381002256
+    second: NeonStrike-7_4
+  - first:
+      213: 4836245155392851488
+    second: NeonStrike-7_5
+  - first:
+      213: 4779151578885685374
+    second: NeonStrike-7_6
+  - first:
+      213: -8919879649207828799
+    second: NeonStrike-7_7
+  - first:
+      213: 1526309380297127908
+    second: NeonStrike-7_8
+  - first:
+      213: -6348465375986894859
+    second: NeonStrike-7_9
+  - first:
+      213: -2455303171138316076
+    second: NeonStrike-7_10
+  - first:
+      213: -3269559221265614583
+    second: NeonStrike-7_11
+  - first:
+      213: 2414006301158011933
+    second: NeonStrike-7_12
+  - first:
+      213: -3089144449588749447
+    second: NeonStrike-7_13
+  - first:
+      213: 1024407587385855411
+    second: NeonStrike-7_14
+  - first:
+      213: -405200062674180879
+    second: NeonStrike-7_15
+  - first:
+      213: -4771073384237857086
+    second: NeonStrike-7_16
+  - first:
+      213: 6571853939903055893
+    second: NeonStrike-7_17
+  - first:
+      213: 2519809739998235958
+    second: NeonStrike-7_18
+  - first:
+      213: -8666503134380227696
+    second: NeonStrike-7_19
+  - first:
+      213: -8966737410591523699
+    second: NeonStrike-7_20
+  - first:
+      213: 5245626530652981234
+    second: NeonStrike-7_21
+  - first:
+      213: 855451106390842588
+    second: NeonStrike-7_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NeonStrike-7_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1546
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c6ffd88cd25c00800000000000000
+      internalID: 888014556976562349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1417
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b1a62f8ecc64130800000000000000
+      internalID: 3550750657099733826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1317
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdacaebb8ae924160800000000000000
+      internalID: 7008338417686334175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1217
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27963593f6bfd10800000000000000
+      internalID: 2160442738257523452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1117
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff1787111d69fce0800000000000000
+      internalID: -1370944691381002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1013
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e05e5685bcd1340800000000000000
+      internalID: 4836245155392851488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 917
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3bb5f7b8363480800000000000000
+      internalID: -8919879649207828799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 814
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f73f6b4068b5e7a0800000000000000
+      internalID: -6348465375986894859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 715
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9093c5c063130a2d0800000000000000
+      internalID: -3269559221265614583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 617
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b94667d772125d0800000000000000
+      internalID: -3089144449588749447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 522
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd495fe54d673e00800000000000000
+      internalID: 1024407587385855411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 429
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c68e27090eb9cdb0800000000000000
+      internalID: -4771073384237857086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 332
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d0a26ab9928f220800000000000000
+      internalID: 2519809739998235958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 242
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7c7735dfbf8380800000000000000
+      internalID: -8966737410591523699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78fef79853cc840800000000000000
+      internalID: 5245626530652981234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeonStrike-7_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 46
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1427bf3c2fdb00800000000000000
+      internalID: 855451106390842588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 031c7ac90523d104ca8707698d30f7d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NeonStrike-7_0: 888014556976562349
+      NeonStrike-7_1: 3550750657099733826
+      NeonStrike-7_10: -2455303171138316076
+      NeonStrike-7_11: -3269559221265614583
+      NeonStrike-7_12: 2414006301158011933
+      NeonStrike-7_13: -3089144449588749447
+      NeonStrike-7_14: 1024407587385855411
+      NeonStrike-7_15: -405200062674180879
+      NeonStrike-7_16: -4771073384237857086
+      NeonStrike-7_17: 6571853939903055893
+      NeonStrike-7_18: 2519809739998235958
+      NeonStrike-7_19: -8666503134380227696
+      NeonStrike-7_2: 7008338417686334175
+      NeonStrike-7_20: -8966737410591523699
+      NeonStrike-7_21: 5245626530652981234
+      NeonStrike-7_22: 855451106390842588
+      NeonStrike-7_3: 2160442738257523452
+      NeonStrike-7_4: -1370944691381002256
+      NeonStrike-7_5: 4836245155392851488
+      NeonStrike-7_6: 4779151578885685374
+      NeonStrike-7_7: -8919879649207828799
+      NeonStrike-7_8: 1526309380297127908
+      NeonStrike-7_9: -6348465375986894859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

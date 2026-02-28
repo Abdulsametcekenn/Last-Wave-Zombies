@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 9aa168059a4762345bc66a317acfab85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5742475781766946162
+    second: AugReload_0
+  - first:
+      213: -8270306983981995339
+    second: AugReload_1
+  - first:
+      213: 1948466254590624161
+    second: AugReload_2
+  - first:
+      213: 5130752221335944185
+    second: AugReload_3
+  - first:
+      213: 245106915649806597
+    second: AugReload_4
+  - first:
+      213: -107439573404850017
+    second: AugReload_5
+  - first:
+      213: -568901916533095716
+    second: AugReload_6
+  - first:
+      213: -7258009734931724611
+    second: AugReload_7
+  - first:
+      213: -4938112807707664516
+    second: AugReload_8
+  - first:
+      213: 997454875971707347
+    second: AugReload_9
+  - first:
+      213: -8778984448417161255
+    second: AugReload_10
+  - first:
+      213: -6391440605949782239
+    second: AugReload_11
+  - first:
+      213: 6959390314257764218
+    second: AugReload_12
+  - first:
+      213: -4197604908631680975
+    second: AugReload_13
+  - first:
+      213: -3300454709450880798
+    second: AugReload_14
+  - first:
+      213: 7051518357504613974
+    second: AugReload_15
+  - first:
+      213: 998241407708262338
+    second: AugReload_16
+  - first:
+      213: 5902760613594982038
+    second: AugReload_17
+  - first:
+      213: 7152563930322583272
+    second: AugReload_18
+  - first:
+      213: 5707456876728098516
+    second: AugReload_19
+  - first:
+      213: 3155555824886297359
+    second: AugReload_20
+  - first:
+      213: 2917466533970282086
+    second: AugReload_21
+  - first:
+      213: -4232883222833538615
+    second: AugReload_22
+  - first:
+      213: -5345402152161286263
+    second: AugReload_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AugReload_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4045
+        width: 294
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2764021, y: 0.30522552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e826f7093b0ae40b0800000000000000
+      internalID: -5742475781766946162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3599
+        width: 108
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba2254bd97f93d80800000000000000
+      internalID: -8270306983981995339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3299
+        width: 110
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c5b13cb75a0b10800000000000000
+      internalID: 1948466254590624161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3000
+        width: 129
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb764f16f7143740800000000000000
+      internalID: 5130752221335944185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2697
+        width: 126
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f986268f64c428ef0800000000000000
+      internalID: -107439573404850017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2398
+        width: 142
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db64115c99e564b90800000000000000
+      internalID: -7258009734931724611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2099
+        width: 150
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d166c9cceba7dd00800000000000000
+      internalID: 997454875971707347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1799
+        width: 145
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1271b57d1aa0d47a0800000000000000
+      internalID: -6391440605949782239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1499
+        width: 86
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1389291539c1fb5c0800000000000000
+      internalID: -4197604908631680975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1367
+        width: 294
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84ae5aded6232d0800000000000000
+      internalID: -3300454709450880798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 291
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e553ae5960cd160800000000000000
+      internalID: 7051518357504613974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 284
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ee7ff081dae150800000000000000
+      internalID: 5902760613594982038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 850
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee362caff2034360800000000000000
+      internalID: 7152563930322583272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 284
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03334bcd49cacb20800000000000000
+      internalID: 3155555824886297359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 549
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6668361fa5cec7820800000000000000
+      internalID: 2917466533970282086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AugReload_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 294
+        height: 108
+      alignment: 9
+      pivot: {x: 0.26614544, y: 0.32130474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98761d2501151d5b0800000000000000
+      internalID: -5345402152161286263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64fc290c9e134574bb4226d8512946ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AugReload_0: -5742475781766946162
+      AugReload_1: -8270306983981995339
+      AugReload_10: -8778984448417161255
+      AugReload_11: -6391440605949782239
+      AugReload_12: 6959390314257764218
+      AugReload_13: -4197604908631680975
+      AugReload_14: -3300454709450880798
+      AugReload_15: 7051518357504613974
+      AugReload_16: 998241407708262338
+      AugReload_17: 5902760613594982038
+      AugReload_18: 7152563930322583272
+      AugReload_19: 5707456876728098516
+      AugReload_2: 1948466254590624161
+      AugReload_20: 3155555824886297359
+      AugReload_21: 2917466533970282086
+      AugReload_22: -4232883222833538615
+      AugReload_23: -5345402152161286263
+      AugReload_3: 5130752221335944185
+      AugReload_4: 245106915649806597
+      AugReload_5: -107439573404850017
+      AugReload_6: -568901916533095716
+      AugReload_7: -7258009734931724611
+      AugReload_8: -4938112807707664516
+      AugReload_9: 997454875971707347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6499919166430575935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9054696695223490747}
+  - component: {fileID: 6570728509628401051}
+  - component: {fileID: 1372326488657289137}
+  m_Layer: 0
+  m_Name: GunsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9054696695223490747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6499919166430575935}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9524754, y: 1.0610178, z: 50.16883}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6570728509628401051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6499919166430575935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13055051b86fdd64f97317f3439aae57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pistolPrefab1: {fileID: 1511064711493174068, guid: 8e29ce5e49dbcac439dfc259f346040f, type: 3}
+  pistolPrefab2: {fileID: 8991875533234888242, guid: 69f223306fee4054299e1647dd69a316, type: 3}
+  pistolPrefab3: {fileID: 192597354201912596, guid: 64de5c622b74ae548b159408b57a965b, type: 3}
+  pistolPrefab4: {fileID: 767505535952445071, guid: b080d5bcc30acde4e8bfe582705ae148, type: 3}
+  pistolPrefab5: {fileID: 8667547043851614445, guid: a1f1bce9de03f96438b7642a89d7181f, type: 3}
+  shotgunPrefab1: {fileID: 7294129856341904897, guid: 3c7af4640e9fbac49a5823d94a0198a7, type: 3}
+  shotgunPrefab2: {fileID: 5720804146849697994, guid: 5712ee9c092d37c4192757dffa874a8f, type: 3}
+  shotgunPrefab3: {fileID: 3604379134178589965, guid: 445ed20732b48f64d854d8caa578b861, type: 3}
+  shotgunPrefab4: {fileID: 8757789663734529778, guid: dadb8e29b3610ca4eafcb7ba74ec9cfc, type: 3}
+  shotgunPrefab5: {fileID: 1296677861547376670, guid: a0aab8efa46e66d4e920acd79751712a, type: 3}
+  smgPrefab1: {fileID: 976753710533502209, guid: 94bf927b5bcc144468223451ec384d33, type: 3}
+  smgPrefab2: {fileID: 3491045257917398859, guid: 421350fcdfd9b7b4cb2d3de1f89be215, type: 3}
+  smgPrefab3: {fileID: 4282697929235458687, guid: 9bab5dc22b154e245b102e5fd9c03aa6, type: 3}
+  smgPrefab4: {fileID: 2936305621739389672, guid: 9dced604dd1ca5545ab01e9f1f756d85, type: 3}
+  assaultRiflePrefab1: {fileID: 4070811606707664152, guid: dfd405554c924f546ae0714186fba5c2, type: 3}
+  assaultRiflePrefab2: {fileID: 2838841293243291964, guid: f9afd7b98c807004b9c2755fd166a20b, type: 3}
+  assaultRiflePrefab3: {fileID: 8989297816421013733, guid: 1604501e23061274a833cfd41ec70d6e, type: 3}
+  assaultRiflePrefab4: {fileID: 5070606136949321925, guid: 26170d39ed321514f896aabec3fe2de2, type: 3}
+  healthWeaponPrefab: {fileID: 3469979938671630736, guid: 557aa357854deea49b0b2fb951dcf143, type: 3}
+  pistolSlot: {fileID: 0}
+  anaSilahSlot: {fileID: 0}
+  healthWeaponSlot: {fileID: 0}
+--- !u!114 &1372326488657289137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6499919166430575935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e412a8acedf8348aa3980b9eaddc96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TradeShopPanel: {fileID: 0}
+  PistolPanelOnButton: {fileID: 0}
+  PistolShopPanel: {fileID: 0}
+  PistolPanelOffButton: {fileID: 0}
+  ShotgunPanelOnButton: {fileID: 0}
+  ShotgunShopPanel: {fileID: 0}
+  ShotgunPanelOffButton: {fileID: 0}
+  SmgPanelOnButton: {fileID: 0}
+  SmgShopPanel: {fileID: 0}
+  SmgPanelOffButton: {fileID: 0}
+  AssaultRiflePanelOnButton: {fileID: 0}
+  AssaultRifleShopPanel: {fileID: 0}
+  AssaultRiflePanelOffButton: {fileID: 0}
+  zombieSpawner: {fileID: 0}

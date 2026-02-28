@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: fde4853bfdcd8d142ab85faa305d4078
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3370908233955246002
+    second: SP-5 Reload_0
+  - first:
+      213: -1115600239096892274
+    second: SP-5 Reload_1
+  - first:
+      213: -7743187193253949051
+    second: SP-5 Reload_2
+  - first:
+      213: -3514999441421381267
+    second: SP-5 Reload_3
+  - first:
+      213: 513890457180615790
+    second: SP-5 Reload_4
+  - first:
+      213: 3663828990486497911
+    second: SP-5 Reload_5
+  - first:
+      213: -8706896041825084673
+    second: SP-5 Reload_6
+  - first:
+      213: -2210477706795484662
+    second: SP-5 Reload_7
+  - first:
+      213: 5712425874529184557
+    second: SP-5 Reload_8
+  - first:
+      213: 4763413364291157255
+    second: SP-5 Reload_9
+  - first:
+      213: -5262858721666653294
+    second: SP-5 Reload_10
+  - first:
+      213: 8069252364337729441
+    second: SP-5 Reload_11
+  - first:
+      213: -6720476611011689222
+    second: SP-5 Reload_12
+  - first:
+      213: -8355347915787525221
+    second: SP-5 Reload_13
+  - first:
+      213: -4751328387818937080
+    second: SP-5 Reload_14
+  - first:
+      213: 8740955495359500132
+    second: SP-5 Reload_15
+  - first:
+      213: -4277327306656463942
+    second: SP-5 Reload_16
+  - first:
+      213: 3998879987357439987
+    second: SP-5 Reload_17
+  - first:
+      213: 3116383425913099789
+    second: SP-5 Reload_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP-5 Reload_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 58
+        height: 34
+      alignment: 9
+      pivot: {x: 0.23423198, y: 0.3320869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4088a032d02831d0800000000000000
+      internalID: -3370908233955246002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 660
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84f9454e779480f0800000000000000
+      internalID: -1115600239096892274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 599
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819ebcd54caa8490800000000000000
+      internalID: -7743187193253949051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 540
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d16c91a6383fc0800000000000000
+      internalID: -3514999441421381267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 479
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac9b71e0988d230800000000000000
+      internalID: 3663828990486497911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 424
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0af88ebc3ec251e0800000000000000
+      internalID: -2210477706795484662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 358
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bef01311d964f40800000000000000
+      internalID: 5712425874529184557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932eff50e196f6b0800000000000000
+      internalID: -5262858721666653294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c35ff0221cb2a0800000000000000
+      internalID: -6720476611011689222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc66226bc1e4970800000000000000
+      internalID: 8740955495359500132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c9a21a71e3a4c0800000000000000
+      internalID: -4277327306656463942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7dbd95920ee7730800000000000000
+      internalID: 3998879987357439987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP-5 Reload_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 58
+        height: 34
+      alignment: 9
+      pivot: {x: 0.23598056, y: 0.3622359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06177de63e9f3b20800000000000000
+      internalID: 3116383425913099789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5121b7a498425214392c82e7080b7761
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SP-5 Reload_0: -3370908233955246002
+      SP-5 Reload_1: -1115600239096892274
+      SP-5 Reload_10: -5262858721666653294
+      SP-5 Reload_11: 8069252364337729441
+      SP-5 Reload_12: -6720476611011689222
+      SP-5 Reload_13: -8355347915787525221
+      SP-5 Reload_14: -4751328387818937080
+      SP-5 Reload_15: 8740955495359500132
+      SP-5 Reload_16: -4277327306656463942
+      SP-5 Reload_17: 3998879987357439987
+      SP-5 Reload_18: 3116383425913099789
+      SP-5 Reload_2: -7743187193253949051
+      SP-5 Reload_3: -3514999441421381267
+      SP-5 Reload_4: 513890457180615790
+      SP-5 Reload_5: 3663828990486497911
+      SP-5 Reload_6: -8706896041825084673
+      SP-5 Reload_7: -2210477706795484662
+      SP-5 Reload_8: 5712425874529184557
+      SP-5 Reload_9: 4763413364291157255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

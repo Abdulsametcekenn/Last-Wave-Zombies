@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: b0a6fdef2db266042b86ae64a789dfee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6043052814356154844
+    second: BomberZombie_0
+  - first:
+      213: 6385403451733965644
+    second: BomberZombie_1
+  - first:
+      213: -4671248174031963634
+    second: BomberZombie_2
+  - first:
+      213: -3338059847657660051
+    second: BomberZombie_3
+  - first:
+      213: 3875743754816085733
+    second: BomberZombie_4
+  - first:
+      213: 8834651191133217433
+    second: BomberZombie_5
+  - first:
+      213: -8841402343175310404
+    second: BomberZombie_6
+  - first:
+      213: 1099658269969611370
+    second: BomberZombie_7
+  - first:
+      213: -3582818068157719997
+    second: BomberZombie_8
+  - first:
+      213: 2832124651378211365
+    second: BomberZombie_9
+  - first:
+      213: 8592559638985503135
+    second: BomberZombie_10
+  - first:
+      213: 6773753682531663478
+    second: BomberZombie_11
+  - first:
+      213: -5438897609843029875
+    second: BomberZombie_12
+  - first:
+      213: 381752298559956810
+    second: BomberZombie_13
+  - first:
+      213: -7524905344181950335
+    second: BomberZombie_14
+  - first:
+      213: -4733639202416559758
+    second: BomberZombie_15
+  - first:
+      213: -5389442153175396576
+    second: BomberZombie_16
+  - first:
+      213: -2132349219633690414
+    second: BomberZombie_17
+  - first:
+      213: 2507729988773355065
+    second: BomberZombie_18
+  - first:
+      213: 9189024711826962587
+    second: BomberZombie_19
+  - first:
+      213: 2124391123483972336
+    second: BomberZombie_20
+  - first:
+      213: -7608451641033623094
+    second: BomberZombie_21
+  - first:
+      213: 867939877744291469
+    second: BomberZombie_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BomberZombie_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1817
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd98f96648c3dd350800000000000000
+      internalID: 6043052814356154844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1625
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf728ab928d9850800000000000000
+      internalID: 6385403451733965644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1433
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0af129f8846c2fb0800000000000000
+      internalID: -4671248174031963634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1241
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ee5d1144dca1d0800000000000000
+      internalID: -3338059847657660051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1049
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee5042196869c530800000000000000
+      internalID: 3875743754816085733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 876
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9b9813f5474ec0800000000000000
+      internalID: -3582818068157719997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 683
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c59bb0772584b0800000000000000
+      internalID: -5438897609843029875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 493
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a897457a229790800000000000000
+      internalID: -7524905344181950335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 299
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc67a8aead435b0800000000000000
+      internalID: -5389442153175396576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberZombie_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 109
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e285368ba8b0c00800000000000000
+      internalID: 867939877744291469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4390e9ba36d6e2940b8c2eafee42bdc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BomberZombie_0: 6043052814356154844
+      BomberZombie_1: 6385403451733965644
+      BomberZombie_10: 8592559638985503135
+      BomberZombie_11: 6773753682531663478
+      BomberZombie_12: -5438897609843029875
+      BomberZombie_13: 381752298559956810
+      BomberZombie_14: -7524905344181950335
+      BomberZombie_15: -4733639202416559758
+      BomberZombie_16: -5389442153175396576
+      BomberZombie_17: -2132349219633690414
+      BomberZombie_18: 2507729988773355065
+      BomberZombie_19: 9189024711826962587
+      BomberZombie_2: -4671248174031963634
+      BomberZombie_20: 2124391123483972336
+      BomberZombie_21: -7608451641033623094
+      BomberZombie_22: 867939877744291469
+      BomberZombie_3: -3338059847657660051
+      BomberZombie_4: 3875743754816085733
+      BomberZombie_5: 8834651191133217433
+      BomberZombie_6: -8841402343175310404
+      BomberZombie_7: 1099658269969611370
+      BomberZombie_8: -3582818068157719997
+      BomberZombie_9: 2832124651378211365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
